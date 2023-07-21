@@ -4,9 +4,9 @@ Hello !! 👋
 
 -  🎓 I'm an IT Undergraduate at University of Moratuwa , Sri Lanka.
 
-- 🌱 Aspiring to leverage my technical expertise to make a positive impact on real-world challenges through technology.
+- 🌱 I aspire to leverage my technical expertise to make a positive impact on real-world challenges through technology.
   
-- 👩‍💻 Open to exciting internship and entry-level opportunities to gain hands-on experience and contribute to dynamic projects.
+- 👩‍💻 I'm open to exciting internship and entry-level opportunities to gain hands-on experience and contribute to dynamic projects.
 
 - 🔎 Check out my GitHub repositories to explore my projects where I showcase my coding skills and problem-solving abilities.
 
