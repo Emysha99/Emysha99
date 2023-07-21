@@ -2,19 +2,15 @@
 
 Hello !! 👋 
 
-#### 👩‍💻 Eduction :
-- I'm an IT Undergraduate at University of Moratuwa , Sri Lanka.
+-  🎓 I'm an IT Undergraduate at University of Moratuwa , Sri Lanka.
+
+- 🌱 Aspiring to leverage my technical expertise to make a positive impact on real-world challenges through technology.
   
-#### 🚀 Goals :
-- Aspiring to leverage my technical expertise to make a positive impact on real-world challenges through technology.
-- Open to exciting internship and entry-level opportunities to gain hands-on experience and contribute to dynamic projects.
+- 👩‍💻 Open to exciting internship and entry-level opportunities to gain hands-on experience and contribute to dynamic projects.
 
-#### 📒 Projects :
-- Check out my GitHub repositories to explore my projects where I showcase my coding skills and problem-solving abilities.
+- 🔎 Check out my GitHub repositories to explore my projects where I showcase my coding skills and problem-solving abilities.
 
-#### 💬 Let's Connect :
-- I'm eager to collaborate, learn, and grow with like-minded developers and professionals.
-- Feel free to reach out to me via email at ashinipathinayake@gmail.com .
+- 📩 Feel free to reach out to me via email at ashinipathinayake@gmail.com .
 
 
 <!--
