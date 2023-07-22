@@ -1,6 +1,4 @@
-# Hi , I'm Ashini Pathinayaka
-
-Hello !! 👋 
+# Hello , I'm Ashini Pathinayaka 👋 .
 
 -  🎓 I'm an IT Undergraduate at University of Moratuwa , Sri Lanka.
 
