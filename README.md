@@ -4,7 +4,7 @@
 
 - 🌱 Constantly learning and exploring new technologies to expand my skill set.
 
-- 📚 Currently honing my skills in programming languages like Java, JavaScipt and Python.
+- 📚 Currently honing my skills in programming languages like Java, JavaScript and Python.
   
 - 👩‍💻 I'm open to exciting internship and entry-level opportunities to gain hands-on experience and contribute to dynamic projects.
 
