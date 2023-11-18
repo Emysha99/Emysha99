@@ -13,7 +13,7 @@
 - 📩 Feel free to reach out to me via email at ashinipathinayake@gmail.com .
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=03C988&width=600&lines=Passionate%2C+Dedicated+and+Self+Driven+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Blogger+,+Captivating+Dancer,+and+Devoted+Volunteer"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=b200ed&width=600&lines=Passionate%2C+Dedicated+and+Self+Driven+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Blogger+,+Captivating+Dancer,+and+Devoted+Volunteer"></a>
   </p>
 
 <h3>Language and Tools:</h3>
