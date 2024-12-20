@@ -1,12 +1,12 @@
-<h1 align="center"> <b>Hello, I'm Ashini </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> <b>Hello, I'm Ashini Pathinayaka </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
--  🎓 I'm an enthusiastic undergraduate pursuing a degree in IT at University of Moratuwa.
+-  🎓 I am a final-year undergraduate pursuing a BSc (Hons) in Information Technology at the University of Moratuwa.
 
-- 🌱 Constantly learning and exploring new technologies to expand my skill set.
+- 🌱 I successfully completed a 6-month Software Engineering internship at Inova IT Systems, where I gained valuable experience in developing real-world software solutions.
 
-- 📚 Currently honing my skills in programming languages like Java, JavaScript and Python.
+- 📚 I’m passionate about learning and contributing to innovative projects.
   
-- 👩‍💻 I'm open to exciting internship and entry-level opportunities to gain hands-on experience and contribute to dynamic projects.
+- 👩‍💻I’m seeking Associate Software Engineer roles to enhance my skills and collaborate in dynamic teams.
 
 - 🔎 Check out my GitHub repositories to explore my projects where I showcase my coding skills and problem-solving abilities.
 
