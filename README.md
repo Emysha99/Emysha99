@@ -4,7 +4,7 @@
 
 - 🌱 I successfully completed a 6-month Software Engineering internship at Inova IT Systems, where I gained valuable experience in developing real-world software solutions.
 
-  - 👩‍💻 I’m seeking Associate Software Engineer roles to enhance my skills and collaborate in dynamic teams.
+- 👩‍💻 I’m seeking Associate Software Engineer roles to enhance my skills and collaborate in dynamic teams.
 
 - 🔎 Check out my GitHub repositories to explore my projects where I showcase my coding skills and problem-solving abilities.
 
