@@ -1,14 +1,12 @@
-<h1 align="center"> <b>Hello, I'm Ashini Pathinayaka </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+- <h1 align="center"> <b>Hello, I'm Ashini Pathinayaka</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
--  🎓 I am a final-year undergraduate pursuing a BSc (Hons) in Information Technology at the University of Moratuwa.
+- 🎓 Final-year BSc (Hons) in Information Technology undergraduate at University of Moratuwa.  
+- 💻 Passionate about building scalable software solutions and writing clean, efficient code.  
+- 🚀 Completed a 6-month internship at Inova IT Systems, working on real-world projects. 
+- 🌟 Actively exploring opportunities as an **Associate Software Engineer / Software Engineer** to contribute and grow in innovative teams.  
+- 🔗 Check out my projects here on GitHub — where I experiment, learn, and solve problems through code.  
+- 📬 Reach me at **ashinipathinayake@gmail.com** — always open to collaborations and exciting opportunities!  
 
-- 🌱 I successfully completed a 6-month Software Engineering internship at Inova IT Systems, where I gained valuable experience in developing real-world software solutions.
-
-- 👩‍💻 I’m seeking Associate Software Engineer/ Software Engineer roles to enhance my skills and collaborate in dynamic teams.
-
-- 🔎 Check out my GitHub repositories to explore my projects where I showcase my coding skills and problem-solving abilities.
-
-- 📩 Feel free to reach out to me via email at ashinipathinayake@gmail.com .
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=b200ed&width=600&lines=Passionate%2C+Dedicated+and+Self+Driven+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Blogger+,+Captivating+Dancer,+and+Devoted+Volunteer"></a>
@@ -32,5 +30,4 @@
  
 <p  align="center" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Emysha99&show_icons=true&theme=radical&layout=compact" alt="Emysha99" /></p>
 
-<p align="center" width="400"><img src="https://github-readme-stats.vercel.app/api?username=Emysha99&show_icons=true&theme=radical" alt="Emysha99" /></p>
 
