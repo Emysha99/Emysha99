@@ -1,4 +1,4 @@
-<h1 align="center"> <b>Hello, I'm Ashini Pathinayaka</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="left"> <b>Hello !</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ashini Pathinayaka</b>  </h1>
 
 - 🎓 Final-year BSc (Hons) in Information Technology undergraduate at the University of Moratuwa, Sri Lanka.  
 - 💻 Tech enthusiast with a strong passion for **Software Engineering and Artificial Intelligence**.   
@@ -10,8 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=3db489&width=750&lines=Problem+Solver+%7C+Creative+Thinker+%7C+Lifelong+Learner;Engineer+at+Heart+%7C+Researcher+in+Mind+%7C+Creator+by+Nature">
   </a>
 </p>
-
-
 
 <h3>Language and Tools:</h3>
   </p>
