@@ -1,33 +1,42 @@
-- <h1 align="center"> <b>Hello, I'm Ashini Pathinayaka</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> <b>Hello, I'm Ashini Pathinayaka</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-- 🎓 Final-year BSc (Hons) in Information Technology undergraduate at University of Moratuwa.  
-- 💻 Passionate about building scalable software solutions and writing clean, efficient code.  
-- 🚀 Completed a 6-month internship at Inova IT Systems, working on real-world projects. 
-- 🌟 Actively exploring opportunities as an **Associate Software Engineer / Software Engineer** to contribute and grow in innovative teams.  
-- 🔗 Check out my projects here on GitHub — where I experiment, learn, and solve problems through code.  
-- 📬 Reach me at **ashinipathinayake@gmail.com** — always open to collaborations and exciting opportunities!  
+- 🎓 Final-year BSc (Hons) in Information Technology undergraduate at the University of Moratuwa, Sri Lanka.  
+- 💻 Tech enthusiast with a strong passion for **Software Engineering and Artificial Intelligence**.   
+- 📂 Dive into my GitHub ; It’s my lab of experiments, projects, and problem-solving adventures.   
+- 📬 Reach me at **ashinipathinayake@gmail.com** , always open to discussing tech, research, and exciting oppotunities!  
+
 
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=b200ed&width=600&lines=Passionate%2C+Dedicated+and+Self+Driven+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Blogger+,+Captivating+Dancer,+and+Devoted+Volunteer"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=3db489&width=600&lines=Passionate%2C+Dedicated+and+Self+Driven+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Blogger+,+Captivating+Dancer,+and+Devoted+Volunteer"></a>
   </p>
 
 <h3>Language and Tools:</h3>
   </p>
   <p align="center">
-  <img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img  alt="Intellij" width="50px" src="https://camo.githubusercontent.com/9db6f827ce993e7f7c656eb9e2bc88164b327bacfc0d6a3bb7952803f3715e06/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f696e74656c6c696a2d696465612e706e67" />
-  <img  alt="Clion" src="https://e7.pngegg.com/pngimages/458/617/png-clipart-clion-jetbrains-intellij-idea-c-macos-linux-angle-text-thumbnail.png" width=50px height=50px/>
-  <img  alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img  alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img  alt="java"  width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-   <img alt="c" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="50px" />
-   <img alt="angular" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
-  <img  alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img  alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
- 
-<p  align="center" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Emysha99&show_icons=true&theme=radical&layout=compact" alt="Emysha99" /></p>
+    <img  alt="java"  width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+    <img alt="c" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>
+    <img alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="50px" />
+    <img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img  alt="TypeScript" width="50px" src="https://blog.teamtreehouse.com/wp-content/uploads/2015/05/87a5a0fdc86455c3f94b0b0eebfdb1b9_400x400.png" />
+    <img  alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img  alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img  alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/500px-React-icon.svg.png" />
+    <img alt="Angular" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
+    <img  alt="Springboot" width="50px" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25070933/springboot-inner.svg" />
+    <img alt="Bootrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024"/>
+    <img alt="Wordpress" width="50px" src="https://www.citypng.com/public/uploads/preview/wordpress-logo-image-png-701751694773680sodsik7zlf.png"/>
+    <img  alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+    <img  alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img  alt="PostgreSQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/500px-Postgresql_elephant.svg.png" />
+    <img  alt="Github" width="50px" src="https://img.favpng.com/19/25/9/scalable-vector-graphics-github-computer-icons-logo-computer-file-png-favpng-GRYRADbE9437SkThu9hB2QtbQ.jpg" />
+    <img  alt="Gitlab" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />
+    <img  alt="Intellij" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/1200px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" />
+    <img  alt="sublime taxt" width="50px" src="https://logowik.com/content/uploads/images/sublime-text-icon1721341619.logowik.com.webp" />
+    <img  alt="Clion" src="https://e7.pngegg.com/pngimages/458/617/png-clipart-clion-jetbrains-intellij-idea-c-macos-linux-angle-text-thumbnail.png" width=50px height=50px/>
+    <img  alt="pycharm" width="50px" src="https://img.favpng.com/3/25/22/pycharm-integrated-development-environment-jetbrains-intellij-idea-python-png-favpng-GEw5Gdt5Rc6sZhQUu01BteZTS.jpg" />
+    <img  alt="postman" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo.png" width=50px height=50px/>
+    <img  alt="figma" src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width=50px height=50px/>
+
 
 
