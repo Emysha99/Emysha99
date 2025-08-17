@@ -8,8 +8,9 @@
 
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=3db489&width=600&lines=Passionate%2C+Dedicated+and+Self+Driven+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Blogger+,+Captivating+Dancer,+and+Devoted+Volunteer"></a>
-  </p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=3db489&width=750&lines=AI+%26+Software+Engineering+Enthusiast+%7C+Research+Explorer;Problem+Solver+%7C+Creative+Thinker+%7C+Lifelong+Learner;Team+Player+%7C+Passionate+Volunteer+%7C+Dance+%26+Art+Lover"></a>
+</p>
 
 <h3>Language and Tools:</h3>
   </p>
