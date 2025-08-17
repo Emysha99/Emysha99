@@ -5,12 +5,13 @@
 - 📂 Dive into my GitHub ; It’s my lab of experiments, projects, and problem-solving adventures.   
 - 📬 Reach me at **ashinipathinayake@gmail.com** , always open to discussing tech, research, and exciting oppotunities!  
 
-
-
-  <p align="center">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=3db489&width=750&lines=AI+%26+Software+Engineering+Enthusiast+%7C+Research+Explorer;Problem+Solver+%7C+Creative+Thinker+%7C+Lifelong+Learner;Team+Player+%7C+Passionate+Volunteer+%7C+Dance+%26+Art+Lover"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+One&size=21&color=3db489&width=750&lines=Problem+Solver+%7C+Creative+Thinker+%7C+Lifelong+Learner;Engineer+at+Heart+%7C+Researcher+in+Mind+%7C+Creator+by+Nature">
+  </a>
 </p>
+
+
 
 <h3>Language and Tools:</h3>
   </p>
